@@ -6,8 +6,8 @@
 
 
 Примеры заглушки:
-* [`<=IE9`](https://doshirakfood.github.io/rejectIE/classList.html);
-* [`<=IE11`](https://doshirakfood.github.io/rejectIE/closest.html).
+* [`<=IE9`](https://doshirakfood.github.io/not-ie/classList.html);
+* [`<=IE11`](https://doshirakfood.github.io/not-ie/closest.html).
 
 
 ## <=IE9
