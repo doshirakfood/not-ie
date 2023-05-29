@@ -2,7 +2,7 @@
 
 # Заглушка для IE
 Заглушка использует подход обнаружение поддержки браузерами свойства `classList`(<=ie9) и `closest`(<=ie11).
-Все подробности можно найти в этой [статье](https://developer.mozilla.org/en-US/docs/Archive/Using_Web_Standards_in_your_Web_Pages/Developing_cross-browser_and_cross-platform_pages).
+Все подробности можно найти в этой [статье](https://udn.realityripple.com/docs/Archive/Using_Web_Standards_in_your_Web_Pages/Developing_cross-browser_and_cross-platform_pages).
 
 
 Примеры заглушки:
